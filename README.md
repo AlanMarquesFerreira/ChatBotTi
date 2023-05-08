@@ -7,7 +7,7 @@
     <a href="https://nodejs.org/en/">🔗 NodeJS</a>
     <a href="https://www.npmjs.com/package/venom-bot">🧠 Venom Bot</a>
 </h1>
-<p align="center">🚀 Projeto criado com o intuito de auxiliar nas demandas de pedidos da empresa "Delícias da Neide" via WhatsApp.</p>
+<p align="center">🚀 Projeto criado com o intuito de auxiliar no atendimento do suporte técnico do Condomínio Solar de Brasília.</p>
 <br>
 <h1 align="center">
   Welcome
@@ -34,10 +34,10 @@ Além disto, é bom ter um editor para trabalhar com o código como [VSCode](htt
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:juniorwmr/botwhatsapp-venom.git
+$ https://github.com/AlanMarquesFerreira/ChatBotTi.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd botwhatsapp-venom
+$ cd ChatBotTi
 
 # Instale as dependências
 $ npm install
@@ -58,11 +58,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-<a href="https://juniorwmr.github.io/">
- <img style="border-radius: 30;" src="https://juniorwmr.github.io/images/washington-muniz.jpg" width="100px;" alt=""/>
+<a href="https://avatars.githubusercontent.com/u/124633669?s=400&u=e540322ec253640e22c1b90e080f6a6cb2afcfd3&v=4" width="100px;" alt=""/>
  <br />
 
-Done with ❤️ by Washington Muniz 👋🏽 !
+Done with ❤️ by Alan Marques 👋🏽 !
 
-[![Twitter Badge](https://img.shields.io/badge/-@juniorwmr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juniorwmr)](https://twitter.com/juniorwmr) [![Linkedin Badge](https://img.shields.io/badge/-Washington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniorwmr/)](https://www.linkedin.com/in/juniorwmr/)
-[![Gmail Badge](https://img.shields.io/badge/-juniorwmr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorripardo@gmail.com)](mailto:juniorripardo@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@juniorwmr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlanMarquesFerreira)](https://twitter.com/juniorwmr) [![Linkedin Badge](https://img.shields.io/badge/-Washington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlanMarquesFerreira/)](https://www.linkedin.com/in/AlanMarquesFerreira/)
+[![Gmail Badge](https://img.shields.io/badge/-alan.max213@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: alan.max213@gmail)](mailto:alan.max213@gmail.com)
