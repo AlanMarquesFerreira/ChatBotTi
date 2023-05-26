@@ -61,7 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://avatars.githubusercontent.com/u/124633669?s=400&u=e540322ec253640e22c1b90e080f6a6cb2afcfd3&v=4" width="100px;" alt=""/>
  <br />
 
-Done with ❤️ by Alan Marques 👋🏽 !
+Feito com ❤️ por Alan Marques 👋🏽 !
 
-[![Twitter Badge](https://img.shields.io/badge/-@AlanMarques-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlanMarquesFerr)](https://twitter.com/AlanMarquesFerreira) [![Linkedin Badge](https://img.shields.io/badge/-AlanMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlanMarquesFerreira/)](https://www.linkedin.com/in/AlanMarquesFerreira/)
-[![GmailBadge](https://img.shields.io/badge/-alan.max213@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: alan.max213@gmail)](mailto:alan.max213@gmail.com)
+! [Linkedin Badge] ( https://img.shields.io/badge/-AlanMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlanMarquesFerreira/ ) ] (https :// www.linkedin.com/in/AlanMarquesFer://www.linkedin.com/in/AlanMarquesFerreira/ )
+[ ! [GmailBadge] (https://img.shields.io/badge/-alan.max213@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: alan.max213@gmail) ] (mailto: alan.max213@gmail.com)
